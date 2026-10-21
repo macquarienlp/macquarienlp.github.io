@@ -1,3 +1,163 @@
+- title: "Framing Political Bias in Multilingual LLMs Across Pakistani Languages"
+  authors: "Afrozah Nadeem, Mark Dras, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.acl-long.1689/
+    display: "ACL"
+  highlight: 1
+
+- title: "AlignCultura: Towards Culturally Aligned Large Language Models?"
+  authors: "Gautam Siddharth Kashyap, Mark Dras, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.acl-long.1762/
+    display: "ACL"
+  highlight: 1
+
+- title: "Fairness Evaluation and Inference Level Mitigation in LLMs"
+  authors: "Afrozah Nadeem, Mark Dras, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-acl.1452/
+    display: "ACL Findings"
+  highlight: 1
+
+- title: "MULSUM: A Multimodal Summarization System with Vis-Aligner and Diversity-Aware Image Selection"
+  authors: "Abid Ali, Diego Molla, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.eacl-long.16/
+    display: "EACL"
+  highlight: 1
+
+- title: "Measuring What Matters Beyond Text: Evaluating Multimodal Summaries by Quality, Alignment, and Diversity"
+  authors: "Abid Ali, Diego Molla, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-acl.1448/
+    display: "ACL Findings"
+  highlight: 1
+
+- title: "Towards Visually Grounded Multimodal Summarization via Cross-Modal Transformer and Gated Attention"
+  authors: "Abid Ali, Diego Molla, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-acl.1451/
+    display: "ACL Findings"
+  highlight: 1
+
+- title: "CSIRO-LT at SemEval-2026 Task 2: In-the-Wild Valence and Arousal Forecasting on Ecological Text Time Series"
+  authors: "Jiyu Chen, Necva Bölücü, Sarvnaz Karimi, Diego Molla, Cecile Paris"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.semeval-1.24/
+    display: "Proceedings of the 20th International Workshop on Semantic Evaluation (2026)"
+  highlight: 0
+
+- title: "Are Large Language Models Economically Viable for Industry Deployment?"
+  authors: "Abdullah Mohammad, Sushant Kumar Ray, Pushkar Arora, Rafiq Ali, Ebad Shabbir, Gautam Siddharth Kashyap, Jiechao Gao, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.acl-industry.106/
+    display: "ACL Industry Track"
+  highlight: 1
+
+- title: "LLM-Based Multi-Task Bangla Hate Speech Detection: Type, Severity, and Target"
+  authors: "Md Arid Hasan, Firoj Alam, Md Fahad Hossain, Usman Naseem, Syed Ishtiaque Ahmed"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.acl-long.1565/
+    display: "ACL"
+  highlight: 1
+
+- title: "Activation Decomposition and Steering for LLM Backdoor Remediation"
+  authors: "Lingfeng Zhong, Qiongkai Xu, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.acl-long.2025/
+    display: "ACL"
+  highlight: 1
+
+- title: "Multimodal Hate and Sentiment Understanding in Low-Resource Text-Embedded Images for Online Safety and Digital Well-being"
+  authors: "Surendrabikram Thapa, Shuvam Shiwakoti, Siddhant Bikram Shah, Kritesh Rauniyar, Laxmi Thapa, Surabhi Adhikari, Kristina T Johnson, Kengatharaiyer Sarveswaran, Bal Krishna Bal, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.chipsal-1.21/
+    display: "Proceedings of the Second workshop on Challenges in Processing South Asian Languages (CHiPSAL2026)"
+  highlight: 0
+
+- title: "Activation-Space Personality Steering: Hybrid Layer Selection for Stable Trait Control in LLMs"
+  authors: "Pranav Bhandari, Nicolas Fay, Sanjeevan Selvaganapathy, Amitava Datta, Usman Naseem, Mehwish Nasim"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.eacl-long.300/
+    display: "EACL"
+  highlight: 1
+
+- title: "Understanding Toxic Behavior in Gaming Communities Using AI to Promote Healthier Digital Spaces"
+  authors: "Surendrabikram Thapa, Shuvam Shiwakoti, Siddhant Bikram Shah, Kritesh Rauniyar, Laxmi Thapa, Surabhi Adhikari, Kristina T. Johnson, Ali Hürriyetoğlu, Hristo Tanev, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.eeuca-1.2/
+    display: "Proceedings of the 9th Workshop on Event Extraction and Understanding: Challenges and Applications (EEUCA 2026)"
+  highlight: 0
+
+- title: "Multimodal Identification of Vaccine Content Stance on Social Media"
+  authors: "Surendrabikram Thapa, Shuvam Shiwakoti, Siddhant Bikram Shah, Kritesh Rauniyar, Laxmi Thapa, Surabhi Adhikari, Kristina T. Johnson, Ali Hürriyetoğlu, Hristo Tanev, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.eeuca-1.3/
+    display: "Proceedings of the 9th Workshop on Event Extraction and Understanding: Challenges and Applications (EEUCA 2026)"
+  highlight: 0
+
+- title: "Health-ORSC-Bench: A Benchmark for Measuring Over-Refusal and Safety Completion in Health Context"
+  authors: "Zhihao Zhang, Liting Huang, Guanghao Wu, Preslav Nakov, Heng Ji, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-acl.1177/
+    display: "ACL Findings"
+  highlight: 1
+
+- title: "POLAR: A Benchmark for Multilingual, Multicultural, and Multi-Event Online Polarization"
+  authors: "Usman Naseem, Robert Geislinger, Juan Ren, Sarah Kohail, Rudy Alexandro Garrido Veliz, P Sam Sahil, Yiran Zhang, Idris Abdulmumin, Marco Antonio Stranisci, Özge Alacam, Cengiz Acarturk, Aisha Jabr, Saba Anwar, Abinew Ali Ayele, Simona Frenda, Alessandra Teresa Cignarella, Elena Tutubalina, Oleg Rogov, Aung Kyaw Htet, Xintong Wang, Surendrabikram Thapa, Kritesh Rauniyar, Tanmoy Chakraborty, MD Arfeen Zeeshan, Dheeraj Kodati, Satya Keerthi, Sahar Moradizeyveh, Firoj Alam, Md Arid Hasan, Syed Ishtiaque Ahmed, Ye Kyaw Thu, Shantipriya Parida, Ihsan Ayyub Qazi, Lilian Diana Awuor Wanzare, Nelson Odhiambo Onyango, Clemencia Siro, Jane Wanjiru Kimani, Ibrahim Said Ahmad, Adem Chanie Ali, Martin Semmann, Chris Biemann, Shamsuddeen Hassan Muhammad, Seid Muhie Yimam"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-acl.1433/
+    display: "ACL Findings"
+  highlight: 1
+
+- title: "Do Personality Traits Interfere? Geometric Limitations of Steering in Large Language Models"
+  authors: "Pranav Bhandari, Usman Naseem, Mehwish Nasim"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-acl.1463/
+    display: "ACL Findings"
+  highlight: 1
+
+- title: "XGUARD: A Graded Benchmark for Evaluating Safety Failures of Large Language Models on Extremist Content"
+  authors: "Vadivel Abishethvarman, Bhavik Chandna, Pratik Jalan, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-acl.1576/
+    display: "ACL Findings"
+  highlight: 1
+
+- title: "Beyond Fake News Detection: A Community-based Study of the Multicultural Nature of Information Disorder"
+  authors: "Sara Gemelli, Giulia Di Cristina, Yiran Zhang, Md Azizul Hoque, Alberto De La Torre Solís, Mohamad Mojtaba Behboudi Eshkiki, Nikolai Efimov, Mariia Everstova, Caterina Maria Cappello, Maziar Kianimoghadam Jouneghani, Payam Latifi, Yashar Mahboudi, Farzaneh Mohseni, Dario Placenti, Tommaso Caselli, Manuela Sanguinetti, Aurora Scarpellini, Chiara Zanchi, Usman Naseem, Marco Antonio Stranisci, Simona Frenda"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.lrec-1.515/
+    display: "Proceedings of the Fifteenth Language Resources and Evaluation Conference"
+  highlight: 0
+
+- title: "SemEval-2026 Task 9: Detecting Multilingual, Multicultural and Multievent Online Polarization"
+  authors: "Usman Naseem, Robert Geislinger, Ada Ren, Sarah Kohail, Rudy Garrido Veliz, P Sam Sahil, Yiran Zhang, Marco Antonio Stranisci, Idris Abdulmumin, Özge Alacam, Cengiz Acarturk, Aisha Jabr, Saba Anwar, Abinew Ali Ayele, Elena Tutubalina, Aung Kyaw Htet, Xintong Wang, Surendrabikram Thapa, Tanmoy Chakraborty, Dheeraj Kodati, Sahar Moradizeyveh, Firoj Alam, Ye Kyaw Thu, Shantipriya Parida, Ihsan Ayyub Qazi, Lilian Diana Awuor Wanzare, Nelson Odhiambo, Clemencia Siro, Ibrahim Said Ahmad, Adem Chanie Ali, Martin Semmann, Chris Biemann, Shamsuddeen Hassan Muhammad, Seid Muhie Yimam"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.semeval-1.453/
+    display: "Proceedings of the 20th International Workshop on Semantic Evaluation (2026)"
+  highlight: 0
+
 - title: "Multiplayer gaming as a testbed for advancing human-agent teaming, decision-making, and communication"
   authors: "C. L. Crone, P. Nalepka, G. Patil, J. Simpson, M. Dras, R. W. Kallen, S. Hosking, M. J. Richardson"
   year: 2026
@@ -157,6 +317,79 @@
     url: https://doi.org/10.18653/v1/2026.findings-acl.735
     display: "ACL Findings"
   highlight: 1
+
+
+- title: "Overview of the 2025 ALTA Shared Task: Normalise Adverse Drug Events"
+  authors: "Diego Mollá, Xiang Dai, Sarvnaz Karimi, Cécile Paris"
+  year: 2025
+  link:
+    url: https://aclanthology.org/2025.alta-main.14/
+    display: "Proceedings of the 23rd Annual Workshop of the Australasian Language Technology Association"
+  highlight: 0
+
+- title: "Can an LLM Elicit Information from Users in Simple Optimization Modelling Dialogues?"
+  authors: "Yelaman Abdullin, Diego Mollá, Bahadorreza Ofoghi, Vicky Mak-Hau, John Yearwood"
+  year: 2025
+  link:
+    url: https://aclanthology.org/2025.alta-main.5/
+    display: "Proceedings of the 23rd Annual Workshop of the Australasian Language Technology Association"
+  highlight: 0
+
+- title: "Hassles and Uplifts Detection on Social Media Narratives"
+  authors: "Jiyu Chen, Sarvnaz Karimi, Diego Molla, Andreas Duenser, Maria Kangas, Cecile Paris"
+  year: 2025
+  link:
+    url: https://aclanthology.org/2025.ijcnlp-long.28/
+    display: "IJCNLP-AACL"
+  highlight: 0
+
+- title: "To Labor is Not to Suffer: Exploration of Polarity Association Bias in LLMs for Sentiment Analysis"
+  authors: "Jiyu Chen, Sarvnaz Karimi, Diego Molla, Cecile Paris"
+  year: 2025
+  link:
+    url: https://aclanthology.org/2025.ijcnlp-short.6/
+    display: "IJCNLP-AACL"
+  highlight: 0
+
+- title: "CSIRO-LT at SemEval-2025 Task 11: Adapting LLMs for Emotion Recognition for Multiple Languages"
+  authors: "Jiyu Chen, Necva Bölücü, Sarvnaz Karimi, Diego Molla, Cecile Paris"
+  year: 2025
+  link:
+    url: https://aclanthology.org/2025.semeval-1.48/
+    display: "Proceedings of the 19th International Workshop on Semantic Evaluation (SemEval-2025)"
+  highlight: 0
+
+- title: "Alignment of Large Language Models with Human Preferences and Values"
+  authors: "Usman Naseem, Gautam Siddharth Kashyap, Kaixuan Ren, Yiran Zhang, Utsav Maskey, Juan Ren, Afrozah Nadeem"
+  year: 2025
+  link:
+    url: https://aclanthology.org/2025.alta-main.20/
+    display: "Proceedings of the 23rd Annual Workshop of the Australasian Language Technology Association"
+  highlight: 0
+
+- title: "Overview of BLP-2025 Task 1: Bangla Hate Speech Identification"
+  authors: "Md Arid Hasan, Firoj Alam, Md Fahad Hossain, Usman Naseem, Syed Ishtiaque Ahmed"
+  year: 2025
+  link:
+    url: https://aclanthology.org/2025.banglalp-1.32/
+    display: "Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025)"
+  highlight: 0
+
+- title: "Multimodal Hate, Humor, and Stance Event Detection in Marginalized Sociopolitical Movements"
+  authors: "Surendrabikram Thapa, Siddhant Bikram Shah, Kritesh Rauniyar, Shuvam Shiwakoti, Surabhi Adhikari, Hariram Veeramani, Kristina T. Johnson, Ali Hurriyetoglu, Hristo Tanev, Usman Naseem"
+  year: 2025
+  link:
+    url: https://aclanthology.org/2025.case-1.3/
+    display: "Proceedings of the 8th Workshop on Challenges and Applications of Automated Extraction of Socio-political Events from Texts"
+  highlight: 0
+
+- title: "Probing the Limits of Multilingual Language Understanding: Low-Resource Language Proverbs as LLM Benchmark for AI Wisdom"
+  authors: "Surendrabikram Thapa, Kritesh Rauniyar, Hariram Veeramani, Surabhi Adhikari, Imran Razzak, Usman Naseem"
+  year: 2025
+  link:
+    url: https://aclanthology.org/2025.codi-1.11/
+    display: "Proceedings of the 6th Workshop on Computational Approaches to Discourse, Context and Document-Level Inferences (CODI 2025)"
+  highlight: 0
 
 - title: "Agentic Moderation: multi-agent design for safer vision-language models"
   authors: "J. Ren, M. Dras, U. Naseem"
@@ -618,7 +851,7 @@
   authors: Pranav Bhandari, Nicolas Fay, Michael J Wise, Amitava Datta, Stephanie Meek, Usman Naseem, Mehwish Nasim
   year: 2025
   link:
-    url: to appear
+    url: https://aclanthology.org/2025.emnlp-main.1487/
     display: EMNLP
   highlight: 0
 
@@ -634,7 +867,7 @@
   authors: Yiran Zhang, Mo Wang, Xiaoyang Li, Kaixuan Ren, Chencheng ZHU, Usman Naseem
   year: 2025
   link:
-    url: to appear
+    url: https://aclanthology.org/2025.findings-emnlp.1084/
     display: EMNLP
   highlight: 0
 
@@ -650,7 +883,7 @@
   authors: Jiayou Zhong, Anudeex Shetty, Chao Jia, Xuanrui Lin, Usman Naseem
   year: 2025
   link:
-    url: to appear
+    url: https://aclanthology.org/2025.emnlp-main.1596/
     display: EMNLP
   highlight: 0
 
@@ -658,7 +891,7 @@
   authors: Bhavik Chandna, Mariam Aboujenane, Usman Naseem
   year: 2025
   link:
-    url: to appear
+    url: https://aclanthology.org/2025.findings-emnlp.1176/
     display: EMNLP
   highlight: 0
 
@@ -666,7 +899,7 @@
   authors: Zhihao Zhang, Yiran Zhang (MQ MRes), Xiyue Zhou, Liting Huang, Imran Razzak, Preslav Nakov, Usman Naseem
   year: 2025
   link:
-    url: to appear
+    url: https://aclanthology.org/2025.findings-emnlp.1316/
     display: EMNLP
   highlight: 0
 
