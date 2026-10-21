@@ -1,58 +1,618 @@
+- title: "Multiplayer gaming as a testbed for advancing human-agent teaming, decision-making, and communication"
+  authors: "C. L. Crone, P. Nalepka, G. Patil, J. Simpson, M. Dras, R. W. Kallen, S. Hosking, M. J. Richardson"
+  year: 2026
+  link:
+    url: https://doi.org/10.1201/9781003655923-7
+    display: "Advancements in human-agent teaming research infrastructure: testbeds, metrics, and concepts"
+  highlight: 0
+
+- title: "SafeConstellations: mitigating over-refusals in LLMs through task-aware representation steering"
+  authors: "U. A. Y. Maskey, S. Yadav, M. Dras, U. Naseem"
+  year: 2026
+  link:
+    url: https://doi.org/10.18653/v1/2026.acl-long.2056
+    display: "ACL"
+  highlight: 1
+
+- title: "Should LLM safety be more than refusing harmful instructions?"
+  authors: "U. Maskey, M. Dras, U. Naseem"
+  year: 2026
+  link:
+    url: https://doi.org/10.1007/s10994-026-07107-w
+    display: "Machine Learning"
+  highlight: 0
+
+- title: "When the model said ‘No Comment’, we knew helpfulness was dead, honesty was alive, and safety was terrified"
+  authors: "G. S. Kashyap, M. Dras, U. Naseem"
+  year: 2026
+  link:
+    url: https://doi.org/10.18653/v1/2026.eacl-long.116
+    display: "EACL"
+  highlight: 1
+
+- title: "Who is behind the voice? User reasoning about agency and capability in a multi-party conversational interface"
+  authors: "J. Simpson, H. Stening, G. Patil, P. Nalepka, A. B. Kamruddin, M. Dras, R. W. Kallen, S. Hosking, M. J. Richardson, D. Richards"
+  year: 2026
+  link:
+    url: https://doi.org/10.1145/3816046.3816268
+    display: "CUI '26: Proceedings of the 8th ACM Conference on Conversational User Interfaces"
+  highlight: 0
+
+- title: "A tribranch cascaded context-aware fusion network for multispectral object detection in remote sensing"
+  authors: "M. Li, J. Zhang, Y. Zhang, J. Yang, M. Dras, A. van den Hengel, Y. Qi"
+  year: 2026
+  link:
+    url: https://doi.org/10.1109/TGRS.2026.3707553
+    display: "IEEE Transactions on Geoscience and Remote Sensing"
+  highlight: 0
+
+- title: "From generation to detection: multi-generator, multi-type, and multi-role LLM-generated vaccine misinformation"
+  authors: "S. T. Ahmad, H. Lu, S. Liu, A. Lau, A. Beheshti, M. Dras, U. Naseem"
+  year: 2026
+  link:
+    url: https://doi.org/10.1109/TCSS.2026.3679641
+    display: "IEEE Transactions on Computational Social Systems"
+  highlight: 0
+
+- title: "Can an AI agent lead human teams?"
+  authors: "J. Simpson, G. Patil, H. Stening, A. B. Kamruddin, D. Somerville, S. Seage, P. Nalepka, M. Dras, S. G. Hosking, R. W. Kallen, M. J. Richardson, D. Richards"
+  year: 2026
+  link:
+    url: https://doi.org/10.1016/j.chbah.2026.100278
+    display: "Computers in Human Behavior: Artificial Humans"
+  highlight: 0
+
+- title: "Fine-tuning GEC model based on language family corpus"
+  authors: "Y. Liu, M. Dras"
+  year: 2026
+  link:
+    url: https://doi.org/10.1007/978-981-95-2725-0_4
+    display: "Chinese computational linguistics: 24th China National Conference, CCL 2025, Jinan, China, August 11-14, 2025, proceedings"
+  highlight: 0
+
+- title: "A survey of progress in LLM alignment from the perspective of reward design"
+  authors: "M. Ji, Y. Wu, Z. Wu, S. Wang, J. Yang, M. Dras, U. Naseem"
+  year: 2026
+  link:
+    url: https://doi.org/10.1109/TAI.2026.3654921
+    display: "IEEE Transactions on Artificial Intelligence"
+  highlight: 0
+
+- title: "De-identification of clinical data: a systematic review of free text, image and tabular data approaches"
+  authors: "P. Faustini, A. McIver, R. Sullivan, M. Dras"
+  year: 2026
+  link:
+    url: https://doi.org/10.1016/j.ijmedinf.2025.106225
+    display: "International Journal of Medical Informatics"
+  highlight: 0
+
+- title: "Optimization of a support vector regression model predicts maximal weight lifted during a manual material handling assessment within a military setting"
+  authors: "A. McCarthy, J. A. Wills, J. T. Fuller, E. D. Feigel, L. Rosenblum, B. Rawls, B. J. Martin, S. Cassidy, B. C. Nindl, T. L. A. Doyle"
+  year: 2026
+  link:
+    url: https://doi.org/10.1016/j.apergo.2026.104794
+    display: "Applied Ergonomics"
+  highlight: 0
+
+- title: "MaiBERT: A pre-training corpus and language model for low-resourced Maithili language"
+  authors: "S. Yadav, R. K. Yadav, U. Maskey, G. S. Kashyap, G. Gautam, U. Naseem"
+  year: 2026
+  link:
+    url: https://doi.org/10.18653/v1/2026.loreslm-1.38
+    display: "LoResLM 2026: Proceedings of the Second Workshop on Language Models for Low-Resource Languages"
+  highlight: 0
+
+- title: "Do clinical question answering systems really need specialised medical fine tuning?"
+  authors: "S. K. Ray, G. S. Kashyap, S. Tripathi, N. Joshi, V. Govindarajan, R. Ali, J. Gao, U. Naseem"
+  year: 2026
+  link:
+    url: https://doi.org/10.18653/v1/2026.eacl-industry.64
+    display: "EACL Industry Track"
+  highlight: 1
+
+- title: "Do Large Language Models reflect demographic pluralism in safety?"
+  authors: "U. Naseem, G. S. Kashyap, S. K. Ray, R. Ali, E. Shabbir, A. Mohammad"
+  year: 2026
+  link:
+    url: https://doi.org/10.18653/v1/2026.findings-eacl.107
+    display: "EACL Findings"
+  highlight: 1
+
+- title: "Revealing the truth with ConLLM for detecting multi-modal deepfakes"
+  authors: "G. S. Kashyap, H. Joshi, N. Jain, E. Shabbir, J. Gao, N. Joshi, U. Naseem"
+  year: 2026
+  link:
+    url: https://doi.org/10.18653/v1/2026.findings-eacl.102
+    display: "EACL Findings"
+  highlight: 1
+
+- title: "PersoBench: benchmarking personalized response generation in large language models"
+  authors: "S. Afzoon, Z. Jamali, U. Naseem, A. Beheshti"
+  year: 2026
+  link:
+    url: https://doi.org/10.1109/TAI.2026.3689823
+    display: "IEEE Transactions on Artificial Intelligence"
+  highlight: 0
+
+- title: "PersoDPO: scalable preference optimization for instruction-adherent, persona-grounded dialogue via multi-LLM evaluation"
+  authors: "S. Afzoon, M. Ahmadi, U. Naseem, A. Beheshti"
+  year: 2026
+  link:
+    url: https://doi.org/10.1007/978-981-95-7251-9_32
+    display: "Web Information Systems Engineering - WISE 2025: 26th International Conference, Marrakech, Morocco, December 15–17, 2025, proceedings, part II"
+  highlight: 0
+
+- title: "They said memes were harmless – we found the ones that hurt: decoding jokes, symbols, and cultural references"
+  authors: "S. Tripathi, G. S. Kashyap, M. Nasim, J. Yang, J. Gao, U. Naseem"
+  year: 2026
+  link:
+    url: https://doi.org/10.1145/3774904.3792718
+    display: "WWW '26: proceedings of the ACM Web Conference 2026"
+  highlight: 0
+
+- title: "PatentMind: a Multi-Aspect Reasoning Graph for patent similarity evaluation"
+  authors: "Y. Yoo, Q. Xu, L. Cao"
+  year: 2026
+  link:
+    url: https://doi.org/10.18653/v1/2026.findings-acl.735
+    display: "ACL Findings"
+  highlight: 1
+
+- title: "Agentic Moderation: multi-agent design for safer vision-language models"
+  authors: "J. Ren, M. Dras, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1109/BigData66926.2025.11401450
+    display: "2025 IEEE International Conference on Big Data: proceedings"
+  highlight: 0
+
+- title: "SHIELD: classifier-guided prompting for robust and safer LVLMs"
+  authors: "J. Ren, M. Dras, U. Naseem"
+  year: 2025
+  link:
+    url: https://researchers.mq.edu.au/en/publications/shield-classifier-guided-prompting-for-robust-and-safer-lvlms/
+    display: "Proceedings of the 23rd Annual Workshop of the Australasian Language Technology Association"
+  highlight: 0
+
+- title: "Message from the program chairs"
+  authors: "M. Dras, B. Mather"
+  year: 2025
+  link:
+    url: https://researchers.mq.edu.au/en/publications/message-from-the-program-chairs-2/
+    display: "COLING Demo Track"
+  highlight: 0
+
+- title: "Some odd adversarial perturbations and the notion of adversarial closeness"
+  authors: "S. M. Tonni, P. Faustini, M. Dras"
+  year: 2025
+  link:
+    url: https://researchers.mq.edu.au/en/publications/some-odd-adversarial-perturbations-and-the-notion-of-adversarial-/
+    display: "Proceedings of the 23rd Annual Workshop of the Australasian Language Technology Association"
+  highlight: 0
+
+- title: "Empirical calibration and metric differential privacy in language models"
+  authors: "P. Faustini, N. Fernandes, A. McIver, M. Dras"
+  year: 2025
+  link:
+    url: https://doi.org/10.1109/ACCESS.2025.3633551
+    display: "IEEE Access"
+  highlight: 0
+
+- title: "When words fall short: the case for conversational interfaces that don’t listen"
+  authors: "J. Simpson, H. Stening, G. Patil, P. Nalepka, M. Dras, R. W. Kallen, S. G. Hosking, M. J. Richardson, D. Richards"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3716553.3750799
+    display: "ICMI '25: proceedings of the 27th International Conference on Multimodal Interaction"
+  highlight: 0
+
+- title: "KG-UQ: knowledge graph-based uncertainty quantification for long text in large language models"
+  authors: "Y. Yuan, L. Tao, H. Lu, M. Khushi, I. Razzak, M. Dras, J. Yang, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3701716.3717660
+    display: "WWW Companion '25: Companion proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "LLMs as historical actors: how AI systems influence the web's evolution"
+  authors: "U. Naseem, J. Rashid, J. Kim, A. Beheshti, J. Yang, M. Dras"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3701716.3716842
+    display: "WWW Companion '25: Companion proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "Strength, jump height, landing, and mobility metrics predict high and low performers of a fire and move assessment: a machine learning approach"
+  authors: "A. Mccarthy, J. T. Fuller, J. A. Wills, S. Cassidy, M. Lovalekar, B. C. Nindl, T. L. A. Doyle"
+  year: 2025
+  link:
+    url: https://doi.org/10.1249/MSS.0000000000003822
+    display: "Medicine and Science in Sports and Exercise"
+  highlight: 0
+
+- title: "Analysis of students' GenAI prompts during a practical SQL test"
+  authors: "C. Ramakrishnan, S. Cassidy, M. Bower"
+  year: 2025
+  link:
+    url: https://doi.org/10.1007/978-3-031-98465-5_23
+    display: "Artificial Intelligence in Education: 26th International Conference, AIED 2025, Palermo, Italy, July 22–26, 2025, proceedings, part VI"
+  highlight: 0
+
+- title: "Evaluating student performance and interactions in generative AI-integrated SQL practical tests"
+  authors: "C. Ramakrishnan, S. Cassidy, M. Bower"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3724389.3730785
+    display: "ITiCSE 2025: proceedings of the 30th ACM Conference on Innovation and Technology in Computer Science Education V. 2"
+  highlight: 0
+
+- title: "Predicting maximal military occupational task performance from physical fitness tests using machine learning"
+  authors: "A. McCarthy, J. A. Wills, J. T. Fuller, S. Cassidy, B. C. Nindl, T. L. A. Doyle"
+  year: 2025
+  link:
+    url: https://doi.org/10.1249/MSS.0000000000003727
+    display: "Medicine and Science in Sports and Exercise"
+  highlight: 0
+
+- title: "A support vector regression model can predict maximal mass lifted during a military manual materiel handling assessment"
+  authors: "A. McCarthy, J. A. Wills, J. T. Fuller, S. Cassidy, B. C. Nindl, T. L. A. Doyle"
+  year: 2025
+  link:
+    url: https://researchers.mq.edu.au/en/publications/a-support-vector-regression-model-can-predict-maximal-mass-lifted/
+    display: ""
+  highlight: 0
+
+- title: "LLM ensemble for RAG: role of context length in zero-shot question answering for BioASQ challenge"
+  authors: "D. Galat, D. Molla-Aliod"
+  year: 2025
+  link:
+    url: https://researchers.mq.edu.au/en/publications/llm-ensemble-for-rag-role-of-context-length-in-zero-shot-question/
+    display: "CLEF 2025 Working Notes"
+  highlight: 0
+
+- title: "Investigating answer validation using noise identification and classification in goal-oriented dialogues"
+  authors: "S. Mirabi, B. Ofoghi, J. Yearwood, D. Molla-Aliod, V. Mak-Hau"
+  year: 2025
+  link:
+    url: https://doi.org/10.5220/0013304000003890
+    display: "Proceedings of the 17th International Conference on Agents and Artificial Intelligence - Volume 2: ICAART"
+  highlight: 0
+
+- title: "ALTA 2025 Tutorial: welcome letter: Alignment of Large Language Models with Human Preferences and Values"
+  authors: "U. A. K. Naseem, G. S. Kashyap, K. Ren, Y. Zhang, U. Maskey, A. Nadeem, J. Ren"
+  year: 2025
+  link:
+    url: https://researchers.mq.edu.au/en/publications/alta-2025-tutorial-welcome-letter-alignment-of-large-language-mod/
+    display: "Proceedings of the 23rd Annual Workshop of the Australasian Language Technology Association"
+  highlight: 0
+
+- title: "GameTox: a comprehensive dataset and analysis for enhanced toxicity detection in online gaming communities"
+  authors: "U. Naseem, S. Shiwakoti, S. B. Shah, S. Thapa, Q. Zhang"
+  year: 2025
+  link:
+    url: https://doi.org/10.18653/v1/2025.naacl-short.37
+    display: "NAACL"
+  highlight: 0
+
+- title: "Wills aligner: multi-subject collaborative brain visual decoding"
+  authors: "G. Bao, Q. Zhang, Z. Gong, J. Zhou, W. Fan, K. Yi, U. Naseem, L. Hu, D. Miao"
+  year: 2025
+  link:
+    url: https://doi.org/10.1609/aaai.v39i13.33554
+    display: "Proceedings of the AAAI Conference on Artificial Intelligence"
+  highlight: 0
+
+- title: "COSEE: Consistency-Oriented Signal-Based Early Exiting via calibrated sample weighting mechanism"
+  authors: "J. He, Q. Zhang, H. Zhang, X. Huang, U. Naseem, D. Miao"
+  year: 2025
+  link:
+    url: https://doi.org/10.1609/aaai.v39i22.34576
+    display: "Proceedings of the AAAI Conference on Artificial Intelligence"
+  highlight: 0
+
+- title: "MoCFL: mobile cluster federated learning framework for highly dynamic network"
+  authors: "K. Fang, J. Deng, C. Dong, U. Naseem, T. Liu, H. Feng, W. Wang"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3696410.3714515
+    display: "WWW '25: proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "COLUR: confidence-oriented learning, unlearning and relearning with noisy-label data for model restoration and refinement"
+  authors: "Z. Sui, L. Hu, J. Cao, U. Naseem, Z. Lai, Q. Zhang"
+  year: 2025
+  link:
+    url: https://doi.org/10.24963/ijcai.2025/1038
+    display: "Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence"
+  highlight: 0
+
+- title: "Medical domain knowledge collaborative graph learning for healthcare event prediction"
+  authors: "U. Naseem, J. Rashid, H. Lu, D. Ng, Z. Hussain, A. Hussain"
+  year: 2025
+  link:
+    url: https://doi.org/10.1111/exsy.70151
+    display: "Expert Systems"
+  highlight: 0
+
+- title: "RF-DTR: a multi-stage DCT token regression network for progressive rib fracture mask refinement"
+  authors: "S. Y. Chen, L. Hu, J. T. Wang, U. Naseem, Z. Y. Lai, Q. Zhang"
+  year: 2025
+  link:
+    url: https://doi.org/10.24963/ijcai.2025/1017
+    display: "Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence"
+  highlight: 0
+
+- title: "NepAES: exploring the promise of automated essay scoring for Nepali essays"
+  authors: "S. Poudel, K. Rauniyar, A. Acharya, J. Rashid, S. Adhikari, U. Naseem, S. Thapa"
+  year: 2025
+  link:
+    url: https://doi.org/10.7717/peerj-cs.3253
+    display: "PeerJ Computer Science"
+  highlight: 0
+
+- title: "Recalling the forgotten class memberships: unlearned models can be noisy labelers to leak privacy"
+  authors: "Z. Sui, L. Hu, J. Cao, D. D. Liu, U. Naseem, Z. Lai, Q. Zhang"
+  year: 2025
+  link:
+    url: https://doi.org/10.24963/ijcai.2025/691
+    display: "Proceedings of the Thirty-Fourth International Joint Conference on Artificial Intelligence"
+  highlight: 0
+
+- title: "How can multimodal remote sensing datasets transform classification via SpatialNet-ViT?"
+  authors: "G. S. Kashyap, M. Kulahara, N. Joshi, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1109/IGARSS55030.2025.11243935
+    display: "IGARSS 2025: Proceedings of the 2025 IEEE International Geoscience and Remote Sensing Symposium"
+  highlight: 0
+
+- title: "Prompt strategies for sarcastic meme detection: a comparative analysis"
+  authors: "F. Abdullakutty, S. Al-Maadeed, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1007/978-981-96-1483-7_25
+    display: "Web Information Systems Engineering – WISE 2024 PhD Symposium, Demos and Workshops: WEB-for-GOOD 2024, AIWDA 2024, SWIFT-AG 2024, and Demos, Doha, Qatar, December 2-5, 2024, proceedings"
+  highlight: 0
+
+- title: "Robust and explainable framework to address data scarcity in diagnostic imaging"
+  authors: "Z. Zhao, L. Alzubaidi, J. Zhang, Y. Duan, U. Naseem, Y. Gu"
+  year: 2025
+  link:
+    url: https://doi.org/10.1016/j.compbiomed.2025.111052
+    display: "Computers in Biology and Medicine"
+  highlight: 0
+
+- title: "DiGrI: Distorted Greedy Approach for Human-Assisted Online Suicide Ideation Detection"
+  authors: "U. Naseem, L. Hu, Q. Zhang, S. Wang, S. Jameel"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3696410.3714529
+    display: "WWW '25: proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "Cross platform multimodal retrieval augmented distillation for code-switched content understanding"
+  authors: "S. Thapa, H. Veeramani, I. Razzak, R. K. W. Lee, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3701716.3718389
+    display: "WWW Companion '25: Companion proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "PoliMeme: exploring offensive meme propagation in the Israel-Palestine conflict"
+  authors: "P. Grover, V. Gohil, B. Goel, H. Veeramani, S. B. Shah, S. Jain, S. Thapa, I. Razzak, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3701716.3718387
+    display: "WWW Companion '25: Companion proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "Entity-aware optimal transport and residual attention for multimodal content moderation"
+  authors: "S. B. Shah, S. Shiwakoti, T. Bhuiyan, M. A. Moni, S. Thapa, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3701716.3717551
+    display: "WWW Companion '25: Companion proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "Evaluating personality traits in large language models: insights from psychological questionnaires"
+  authors: "P. Bhandari, U. Naseem, A. Datta, N. Fay, M. Nasim"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3701716.3715504
+    display: "WWW Companion '25: Companion proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "Explainable medical image captioning"
+  authors: "M. S. Kamal, S. F. Nimmy, M. R. Islam, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3701716.3717549
+    display: "WWW Companion '25: Companion proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "Addressing the challenges of mental health conversations with large language models"
+  authors: "S. Shiwakoti, S. B. Shah, I. Razzak, S. Thapa, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3701716.3718374
+    display: "WWW Companion '25: Companion proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "BEAST: leveraging contrastive learning and unsupervised sentence embeddings for improved drug abuse detection"
+  authors: "S. Shiwakoti, S. B. Shah, W. Wang, S. Thapa, I. Razzak, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3701716.3717743
+    display: "WWW Companion '25: Companion proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "Unleashing the potential of diffusion models towards diversified sequential recommendations"
+  authors: "Z. Cai, S. Wang, V. W. Chu, U. Naseem, Y. Wang, F. Chen"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3726302.3730109
+    display: "SIGIR '25: proceedings of the 48th International ACM SIGIR Conference on Research and Development in Information Retrieval"
+  highlight: 0
+
+- title: "Few labels with active learning: from weak to strong labels for misinformation detection"
+  authors: "A. Alalawi, A. Alsuhaibani, U. Naseem, B. Suleiman, S. Jameel, I. Razzak"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3701716.3718376
+    display: "WWW Companion '25: Companion proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "Third International Workshop on Multimodal Content Analysis for Social Good"
+  authors: "U. Naseem, S. Thapa, R. K. W. Lee, M. Nasim"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3701716.3718378
+    display: "WWW Companion '25: Companion proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "Ask, acquire, understand: a multimodal agent-based framework for social abuse detection in memes"
+  authors: "X. Lin, C. Jia, J. Ji, H. Han, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3696410.3714895
+    display: "WWW '25: proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
+- title: "Hate speech classification in text-embedded images: integrating ontology, contextual semantics, and vision-language representations"
+  authors: "S. Thapa, S. Adhikari, I. Razzak, R.K.-W. Lee, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1007/978-3-031-78538-2_29
+    display: "Social Networks Analysis and Mining: 16th International Conference, ASONAM 2024, Rende, Italy, September 2–5, 2024, proceedings, part II"
+  highlight: 0
+
+- title: "Multiview multimodal feature fusion for breast cancer classification using deep learning"
+  authors: "S. Hussain, M. Ali, U. Naseem, D. B. A. Avalos, S. Cardona-Huerta, J. G. Tamez-Pena"
+  year: 2025
+  link:
+    url: https://doi.org/10.1109/ACCESS.2024.3524203
+    display: "IEEE Access"
+  highlight: 0
+
+- title: "Systematic literature review on sentiment analysis in airline industry"
+  authors: "K. M. Hasib, U. Naseem, A. J. Keya, S. Maitra, K. Mithu, M. G. R. Alam"
+  year: 2025
+  link:
+    url: https://doi.org/10.1007/s42979-024-03567-w
+    display: "SN Computer Science"
+  highlight: 0
+
+- title: "Multimodal hyperbolic graph learning for Alzheimer’s disease detection"
+  authors: "C. Xie, W. Zhou, C. Peng, A. N. Hoshyar, C. Xu, U. Naseem, F. Xia"
+  year: 2025
+  link:
+    url: https://doi.org/10.1007/978-981-96-0351-0_29
+    display: "AI 2024: Advances in Artificial Intelligence: 37th Australasian Joint Conference on Artificial Intelligence, AI 2024, Melbourne, VIC, Australia, November 25–29, 2024, proceedings, part II"
+  highlight: 0
+
+- title: "Did you tell a deadly lie? Evaluating large language models for health misinformation identification"
+  authors: "S. Thapa, K. Rauniyar, H. Veeramani, A. Shah, I. Razzak, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1007/978-981-96-0576-7_29
+    display: "Web Information Systems Engineering – WISE 2024: 25th International Conference, Doha, Qatar, December 2–5, 2024, proceedings, part V"
+  highlight: 0
+
+- title: "MASK-Net: robust health mention classification by masking a disease or symptom terms"
+  authors: "U. Naseem, S. Thapa, Q. Zhang, J. Rashid, L. Hu"
+  year: 2025
+  link:
+    url: https://doi.org/10.1109/TCSS.2024.3492143
+    display: "IEEE Transactions on Computational Social Systems"
+  highlight: 0
+
+- title: "Performance evaluation of deep learning and transformer models using multimodal data for breast cancer classification"
+  authors: "S. Hussain, M. Ali, U. Naseem, B. A. Bosques Palomo, M. A. Monsivais Molina, J. A. Garza Abdala, D. B. Avendano Avalos, S. Cardona-Huerta, T. Aaron Gulliver, J. G. Tamez Pena"
+  year: 2025
+  link:
+    url: https://doi.org/10.1007/978-3-031-73376-5_6
+    display: "Cancer prevention, detection, and intervention: Third MICCAI Workshop, CaPTion 2024, Held in Conjunction with MICCAI 2024, Marrakesh, Morocco, October 6, 2024, proceedings"
+  highlight: 0
+
+- title: "Navigating the web of disinformation and misinformation: large language models as double-edged swords"
+  authors: "S. B. Shah, S. Thapa, A. Acharya, K. Rauniyar, S. Poudel, S. Jain, A. Masood, U. Naseem"
+  year: 2025
+  link:
+    url: https://doi.org/10.1109/ACCESS.2024.3406644
+    display: "IEEE Access"
+  highlight: 0
+
+- title: "Cut the deadwood out: backdoor purification via guided module substitution"
+  authors: "Y. Tong, W. Li, X. He, H. Zhan, Q. Xu"
+  year: 2025
+  link:
+    url: https://doi.org/10.18653/v1/2025.findings-emnlp.1293
+    display: "EMNLP Findings"
+  highlight: 0
+
+- title: "HEAL: healthcare emergency assistants leveraging large language models"
+  authors: "Z. Zhu, Q. Xu, A. Beheshti"
+  year: 2025
+  link:
+    url: https://doi.org/10.1145/3701716.3715181
+    display: "WWW Companion '25: Companion proceedings of the ACM Web Conference 2025"
+  highlight: 0
+
 - title: "Truth, Trust, and Trouble: Medical AI on the Edge"
   authors: Mohammad Anas Azeez, Rafiq Ali, Ebad Shabbir, Zohaib Hasan Siddiqui, Gautam Siddharth Kashyap, Jiechao Gao, Usman Naseem
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.18653/v1/2025.emnlp-industry.69
     display: EMNLP Industry Track
-  highlight: 1
+  highlight: 0
 
 - title: "LLMs on a Budget? Say HOLA"
   authors: Zohaib Hasan Siddiqui, Jiechao Gao, Ebad Shabbir, Mohammad Anas Azeez, Rafiq Ali Gautam Siddharth Kashyap, Usman Naseem
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.18653/v1/2025.emnlp-industry.71
     display: EMNLP Industry Track
-  highlight: 1
+  highlight: 0
 
 - title: "PersoPilot: An Adaptive AI-Copilot for Transparent Contextualized Persona Classification and Personalized Response Generation"
   authors: Saleh Afzoon, Amin Beheshti, and Usman Naseem
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.1109/ICDMW69685.2025.00311
     display: IEEE International Conference on Data Mining (ICDM), Demo Track
-  highlight: 1
+  highlight: 0
 
 - title: "PatentScore: Multi-dimensional Evaluation of LLM-Generated Patent Claims"
   authors: Yongmin Yoo (*MQ PhD), Qiongkai Xu, Longbing Cao
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.18653/v1/2025.emnlp-main.1564
     display: EMNLP
-  highlight: 1
+  highlight: 0
 
 - title: "GRADA: Graph-based Reranker against Adversarial Documents Attack"
   authors: Jingjie Zheng, Aryo Pradipta Gema, Giwon Hong, Xuanli He, Pasquale Minervini, Youcheng Sun, Qiongkai Xu
   year: 2025
   link:
-    url: to appear
+    url: https://researchers.mq.edu.au/en/publications/grada-graph-based-reranking-against-adversarial-documents-attack/
     display: EMNLP
-  highlight: 1
+  highlight: 0
 
 - title: "Cut the Deadwood Out: Post-Training Model Purification with Selective Module Substitution"
   authors: Yao Tong, Weijun Li, Xuanli He, Haolan Zhan, Qiongkai Xu
   year: 2025
   link:
-    url: to appear
+    url: https://aclanthology.org/2025.findings-emnlp.1293/
     display: EMNLP
-  highlight: 1
+  highlight: 0
 
 - title: "NAP^2: A Benchmark for Naturalness and Privacy-Preserving Text Rewriting by Learning from Human"
   authors: Shuo Huang, William Maclean, Xiaoxi Kang, Qiongkai Xu, Zhuang Li, Xingliang Yuan, Gholamreza Haffari, Lizhen Qu
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.18653/v1/2025.findings-emnlp.476
     display: EMNLP
-  highlight: 1
+  highlight: 0
 
 - title: "Can LLM Agents Maintain a Persona in Discourse?"
   authors: Pranav Bhandari, Nicolas Fay, Michael J Wise, Amitava Datta, Stephanie Meek, Usman Naseem, Mehwish Nasim
@@ -60,15 +620,15 @@
   link:
     url: to appear
     display: EMNLP
-  highlight: 1
+  highlight: 0
 
 - title: "Benchmarking Large Language Models for Cryptanalysis and Side-Channel Vulnerabilities"
   authors: Utsav Maskey, Chencheng ZHU, Usman Naseem
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.18653/v1/2025.findings-emnlp.1082
     display: EMNLP
-  highlight: 1
+  highlight: 0
 
 - title: "TurnBench-MS: A Benchmark for Evaluating Multi-Turn, Multi-Step Reasoning in Large Language Models"
   authors: Yiran Zhang, Mo Wang, Xiaoyang Li, Kaixuan Ren, Chencheng ZHU, Usman Naseem
@@ -76,15 +636,15 @@
   link:
     url: to appear
     display: EMNLP
-  highlight: 1
+  highlight: 0
 
 - title: "Too Helpful, Too Harmless, Too Honest or Just Right?"
   authors: Gautam Siddharth Kashyap, Mark Dras, Usman Naseem
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.18653/v1/2025.emnlp-main.1510
     display: EMNLP
-  highlight: 1
+  highlight: 0
 
 - title: "Pluralistic Alignment for Healthcare: A Role-Driven Framework"
   authors: Jiayou Zhong, Anudeex Shetty, Chao Jia, Xuanrui Lin, Usman Naseem
@@ -92,7 +652,7 @@
   link:
     url: to appear
     display: EMNLP
-  highlight: 1
+  highlight: 0
 
 - title: "ExtremeAIGC: Benchmarking LMM Vulnerability to AI-Generated Extremist Content"
   authors: Bhavik Chandna, Mariam Aboujenane, Usman Naseem
@@ -100,7 +660,7 @@
   link:
     url: to appear
     display: EMNLP
-  highlight: 1
+  highlight: 0
 
 - title: "From Generation to Detection: A Multimodal Multi-Task Dataset for Benchmarking Health Misinformation"
   authors: Zhihao Zhang, Yiran Zhang (MQ MRes), Xiyue Zhou, Liting Huang, Imran Razzak, Preslav Nakov, Usman Naseem
@@ -108,13 +668,13 @@
   link:
     url: to appear
     display: EMNLP
-  highlight: 1
+  highlight: 0
 
 - title: "Steering Towards Fairness: Mitigating Political Stance Bias in LLMs"
   authors: Afrozah Nadeem, Mark Dras and Usman Naseem
   year: 2025
   link:
-    url: to appear
+    url: https://researchers.mq.edu.au/en/publications/steering-towards-fairness-mitigating-political-stance-bias-llms/
     display: CASE@RANLP
   highlight: 0
 
@@ -131,7 +691,7 @@
   authors: Xiao Wang, Usman Naseem and Jinman Kim
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.3233/FAIA250860
     display: ECAI
   highlight: 0
 
@@ -147,7 +707,7 @@
   authors: Kashyap, Gautam Siddharth *, Niharika Jain, Ebad Shabbir, Harsh Joshi, Usman Naseem, and Jiechao Gao
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.1109/TAI.2025.3591585
     display: IEEE Transactions on Artificial Intelligence
   highlight: 0
 
@@ -155,7 +715,7 @@
   authors: Rimsha Muzaffar; Syed Yasser Arafat; Junaid Rashid; Jungeun Kim; Usman Naseem 
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.1371/journal.pone.0320701
     display: PlosOne
   highlight: 0
 
@@ -163,7 +723,7 @@
   authors: David Warren *, Mark Dras
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.3233/FAIA251311
     display: ECAI
   highlight: 0
 
@@ -173,7 +733,7 @@
   link:
     url: https://dl.acm.org/doi/10.1145/3763245
     display: ACM Computing Surveys 
-  highlight: 1
+  highlight: 0
 
 - title: "Alleviating Textual Reliance in Medical Language-guided Segmentation via Prototype-driven Semantic Approximation"
   authors: Shuchang Ye, Usman Naseem, Mingyuan Meng, Jinman Kim
@@ -181,13 +741,13 @@
   link:
     url: https://iccv.thecvf.com/virtual/2025/poster/1226
     display: ICCV 
-  highlight: 1
+  highlight: 0
   
 - title: "Towards Teams being Led by a Conversational Agent"
   authors: James Simpson, Hamish Stening, Patrick Nalepka, Mark Dras, Rachel W. Kallen, Simon G. Hosking, Deborah Richards, and Michael J. Richardson
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.1145/3719160.3736614
     display: ACM Conference on Conversational User Interfaces (CUI )
   highlight: 0
 
@@ -204,7 +764,7 @@
   authors: Jyotheesh Gaddam; Lele Zhang; Vicky Mak-Hau; John Yearwood; Bahadorreza Ofoghi; Diego Molla-Aliod
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.1109/ICCAE64891.2025.10980596
     display: ICCAE  
   highlight: 0
 
@@ -214,7 +774,7 @@
   link:
     url: https://aclanthology.org/2025.acl-long.1185/
     display: ACL 
-  highlight: 1
+  highlight: 0
 
 - title: " WET: Overcoming Paraphrasing Vulnerabilities in Embeddings-as-a-Service with Linear Transformation Watermarks"
   authors: Anudeex Shetty, Qiongkai Xu, Jey Han Lau
@@ -222,7 +782,7 @@
   link: 
     url: https://aclanthology.org/2025.acl-long.1122/
     display: ACL 
-  highlight: 1
+  highlight: 0
 
 - title: "TUBA: Cross-Lingual Transferability of Backdoor Attacks in LLMs with Instruction Tuning"
   authors: Xuanli He, Jun Wang, Qiongkai Xu, Pasquale Minervini, Pontus Stenetorp, Benjamin I. P. Rubinstein, Trevor Cohn
@@ -230,7 +790,7 @@
   link: 
     url: https://aclanthology.org/2025.findings-acl.848/
     display: ACL 
-  highlight: 1
+  highlight: 0
 
 - title: "VITAL: A New Dataset for Benchmarking Pluralistic Alignment in Healthcare"
   authors: Anudeex Shetty, Amin Beheshti, Mark Dras, Usman Naseem
@@ -238,7 +798,7 @@
   link: 
     url: https://aclanthology.org/2025.acl-long.1119/
     display: ACL 
-  highlight: 1
+  highlight: 0
 
 - title: "Reversal of Thought: Enhancing Large Language Models with Preference-Guided Reverse Reasoning Warm-up"
   authors: Jiahao Yuan, Dehui du, Hao Zhang, Zixiang Di, Usman Naseem
@@ -246,7 +806,7 @@
   link: 
     url: https://aclanthology.org/2025.acl-long.955/
     display: ACL 
-  highlight: 1
+  highlight: 0
 
 
 - title: "ReflectDiffu: Reflect between Emotion-intent Contagion and Mimicry for Empathetic Response Generation via a RL-Diffusion Framework"
@@ -255,7 +815,7 @@
   link: 
     url: https://aclanthology.org/2025.acl-long.1235/
     display: ACL 
-  highlight: 1
+  highlight: 0
 
 
 - title: "A Multimodal Prompt-based Framework for Analyzing Code-Mixed and Low-Resource Memes"
@@ -270,7 +830,7 @@
   authors: Aung Kyaw Htet, Mark Dras
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.1007/s10579-025-09844-1
     display: Language Resources and Evaluation
   highlight: 0
 
@@ -278,7 +838,7 @@
   authors: Arka Dutta, Syed Mohammad Sualeh Ali, Usman Naseem, Ashiqur R. KhudaBukhsh
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.24963/ijcai.2025/1070
     display: IJCAI
   highlight: 0
 
@@ -287,7 +847,7 @@
   authors: David Warren, Mark Dras, Malcolm Ryan
   year: 2025
   link:
-    url: to appear
+    url: https://doi.org/10.1016/j.patrec.2025.04.029
     display: Pattern Recognition Letters
   highlight: 0
 
@@ -319,7 +879,7 @@
   year: 2025
   link:
     url: https://aclanthology.org/2025.coling-demos.0/
-    display: Proceedings of the 31st International Conference on Computational Linguistics System Demonstrations
+    display: "COLING Demo Track"
   highlight: 0
 
 - title: "Natural Language Understanding of Devanagari Script Languages: Language Identification, Hate Speech and its Target Detection"
@@ -370,7 +930,7 @@
   year: 2025
   link:
     url: https://aclanthology.org/2025.coling-main.417/
-    display:  Proceedings of the 31st International Conference on Computational Linguistics
+    display: "COLING"
   highlight: 0
   news2:
 
@@ -392,7 +952,7 @@
   year: 2025
   link:
     url: https://aclanthology.org/2025.coling-demos.7/
-    display:  Proceedings of the 31st International Conference on Computational Linguistics System Demonstrations
+    display: "COLING Demo Track"
   highlight: 0
 
 - title: "Large language models (LLM) in computational social science: prospects, current state, and challenges"
