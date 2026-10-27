@@ -1,3 +1,123 @@
+- title: "Over-Refusal and Representation Subspaces: A Mechanistic Analysis of Task-Conditioned Refusal in Aligned LLMs"
+  authors: "Utsav Maskey, Mark Dras, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.emnlp-main.1867/
+    display: "EMNLP"
+  highlight: 1
+
+- title: "EQUAL: Evaluating Pluralistic Alignment of LLMs Across Educational Perspectives"
+  authors: "MD Azizul Hoque, Mark Dras, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.emnlp-main.1909/
+    display: "EMNLP"
+  highlight: 1
+
+- title: "Beyond Shallow Alignment: How Post-Training Methods Determine Refusal Circuits And Steering Robustness"
+  authors: "Hoang Cuong Nguyen, Mark Dras, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.emnlp-main.2057/
+    display: "EMNLP"
+  highlight: 1
+
+- title: "Is Alignment Enough for Helpfulness, Harmlessness, and Honesty?"
+  authors: "Gautam Siddharth Kashyap, Mark Dras, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.emnlp-main.2294/
+    display: "EMNLP"
+  highlight: 1
+
+- title: "PDOS: Widening the Safety Overton Window Through Persona-Driven Generation"
+  authors: "Kritesh Rauniyar, Mark Dras, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-emnlp.1077/
+    display: "EMNLP Findings"
+  highlight: 1
+
+- title: "When Helpfulness, Harmlessness, and Honesty Remember They Are on the Same Team"
+  authors: "Gautam Siddharth Kashyap, Mark Dras, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-emnlp.1798/
+    display: "EMNLP Findings"
+  highlight: 1
+
+- title: "Do We Require Large Language Models To Be HHH Aligned For Reasoning, Safety, Value, and Pluralistic?"
+  authors: "Gautam Siddharth Kashyap, Mark Dras, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-emnlp.2192/
+    display: "EMNLP Findings"
+  highlight: 1
+
+- title: "Before the First Token: Jailbreak Detection with Attention Probes"
+  authors: "Pedro Faustini, Annabelle McIver, Mark Dras"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-emnlp.2242/
+    display: "EMNLP Findings"
+  highlight: 1
+
+- title: "VISPA: Pluralistic Alignment via Automatic Value Selection and Activation"
+  authors: "Shenyan Zheng, Jiayou Zhong, Anudeex Shetty, Heng Ji, Preslav Nakov, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.emnlp-main.2173/
+    display: "EMNLP"
+  highlight: 1
+
+- title: "Pak3H: Evaluating the Cost of Cultural Mismatch in LLM Alignment with a Human-Contextualized Urdu Benchmark"
+  authors: "Abdullah Hashmat, Usman Naseem, Agha Ali Raza"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.emnlp-main.883/
+    display: "EMNLP"
+  highlight: 1
+
+- title: "Do LLMs Use Cultural Knowledge Without Being Told? A Multilingual Evaluation of Implicit Pragmatic Adaptation"
+  authors: "Mehwish Nasim, Sanjeevan Selvaganapathy, Neel Ganapathi Sabhahit, Marie Griesbach, Pranav Bhandari, Janina Lütke Stockdiek, Lennart Schäpermeier, Usman Naseem, Christian Grimme"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-emnlp.2085/
+    display: "EMNLP Findings"
+  highlight: 1
+
+- title: "How Far Can Current Tokenizers Go in Bangla? A Benchmark and a Morphology-Aware Solution"
+  authors: "Gautam Siddharth Kashyap, MD Azizul Hoque, Kinjalk Srivastava, Pratik Jalan, Subhashis Kar, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-emnlp.2436/
+    display: "EMNLP Findings"
+  highlight: 1
+
+- title: "Few-shot Semantic Recovery Attacks on Image Embeddings"
+  authors: "Yiyi Chen, Qiongkai Xu, Johannes Bjerva"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.emnlp-main.2368/
+    display: "EMNLP"
+  highlight: 1
+
+- title: "Who Wrote the Book? Detecting and Attributing LLM Ghostwriters"
+  authors: "Anudeex Shetty, Qiongkai Xu, Olga Ohrimenko, Jey Han Lau"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.emnlp-main.2525/
+    display: "EMNLP"
+  highlight: 1
+
+- title: "Adaptive Cost-Efficient Evaluation for Reliable Patent Claim Generation"
+  authors: "Yongmin Yoo, Qiongkai Xu, Longbing Cao"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.findings-emnlp.1386/
+    display: "EMNLP Findings"
+  highlight: 1
+
 - title: "Framing Political Bias in Multilingual LLMs Across Pakistani Languages"
   authors: "Afrozah Nadeem, Mark Dras, Usman Naseem"
   year: 2026
