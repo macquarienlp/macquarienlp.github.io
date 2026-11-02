@@ -55,9 +55,23 @@ permalink: /publications/
 
 ## Full List of publications
 
-{% for publi in site.data.publist %}
+<style>
+  details.pub-year { border: 1px solid #ddd; border-radius: 4px; margin-bottom: 10px; }
+  details.pub-year > summary { cursor: pointer; padding: 10px 15px; background: #f5f5f5; font-size: 1.2em; font-weight: bold; }
+  details.pub-year[open] > summary { border-bottom: 1px solid #ddd; }
+  details.pub-year .pub-entry { padding: 8px 15px; }
+</style>
 
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br><em>{{ publi.year }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+{% assign pubs_by_year = site.data.publist | group_by: "year" | sort: "name" | reverse %}
+{% for year_group in pubs_by_year %}
+<details class="pub-year" markdown="0">
+  <summary>{{ year_group.name }} ({{ year_group.items | size }})</summary>
+  {% for publi in year_group.items %}
+  <div class="pub-entry">
+    {{ publi.title }}<br />
+    <em>{{ publi.authors }}</em><br />
+    <a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
+  </div>
+  {% endfor %}
+</details>
 {% endfor %}
