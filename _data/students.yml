@@ -9,12 +9,13 @@
 #  interest4:
 
 
-- name: Ghazal Lahooha
+- name: Ghazal Lalooha
   photo: student_ghazal.jpg
   email: ghazal.lalooha@hdr.mq.edu.au
   has_scholar: 1
   scholar: https://scholar.google.com/citations?user=P43hb-wAAAAJ&hl=en
   number_educ: 4
+  has_webpage: 
   interest1: Trustworthy AI
   interest2: adversarial machine learning
   interest3: multimodal learning
@@ -24,6 +25,7 @@
   photo: student_vahid.jpg
   email: vahid.moraveji-hashemi@students.mq.edu.au
   has_webpage: 1
+  has_scholar: 
   webpage: https://www.linkedin.com/in/zihan-zhu-60b84720b/
   number_educ: 4
   interest1: Machine Learning and Deep Learning
