@@ -65,7 +65,7 @@ permalink: /publications/
 {% assign pubs_by_year = site.data.publist | group_by: "year" | sort: "name" | reverse %}
 {% for year_group in pubs_by_year %}
 <details class="pub-year" markdown="0">
-  <summary>{{ year_group.name }} ({{ year_group.items | size }})</summary>
+  <summary>{{ year_group.name }}</summary>
   {% for publi in year_group.items %}
   <div class="pub-entry">
     {{ publi.title }}<br />
