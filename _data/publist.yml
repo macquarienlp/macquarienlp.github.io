@@ -1,3 +1,19 @@
+- title: "Self-supervised Causal Effects Estimation"
+  authors: "LI, Xinshu and Yang, Shiyi and Haghighi, Venus and Lalooha, Ghazal and Xu, Ziqi and Xia, Feng and Sheng, Quan Z. and Yao, Lina"
+  year: 2026
+  link:
+    url: https://dl.acm.org/doi/abs/10.1145/3841471
+    display: "ACM Transactions on Intelligent Systems and Technology"
+  highlight: 0
+  
+- title: "Over-Refusal and Representation Subspaces: A Mechanistic Analysis of Task-Conditioned Refusal in Aligned LLMs"
+  authors: "Utsav Maskey, Mark Dras, Usman Naseem"
+  year: 2026
+  link:
+    url: https://aclanthology.org/2026.emnlp-main.1867/
+    display: "EMNLP"
+  highlight: 1
+
 - title: "Over-Refusal and Representation Subspaces: A Mechanistic Analysis of Task-Conditioned Refusal in Aligned LLMs"
   authors: "Utsav Maskey, Mark Dras, Usman Naseem"
   year: 2026
@@ -437,6 +453,14 @@
     url: https://doi.org/10.18653/v1/2026.findings-acl.735
     display: "ACL Findings"
   highlight: 1
+
+- title: "FAP: A Foveation-Inspired Adversarial Purification Pipeline for Enhancing Robustness in Mammography Classification"
+  authors: "Ghazal Lalooha; Wenjie Ruan; Venus Haghighi; Xinshu Li; Quan Z. Sheng"
+  year: 2025
+  link:
+    url: https://ieeexplore.ieee.org/abstract/document/11391929
+    display: "IEEE International Conference on Data Mining (ICDM)"
+  highlight: 0
 
 
 - title: "Overview of the 2025 ALTA Shared Task: Normalise Adverse Drug Events"
