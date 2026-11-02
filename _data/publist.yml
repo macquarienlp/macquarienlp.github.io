@@ -14,14 +14,6 @@
     display: "EMNLP"
   highlight: 1
 
-- title: "Over-Refusal and Representation Subspaces: A Mechanistic Analysis of Task-Conditioned Refusal in Aligned LLMs"
-  authors: "Utsav Maskey, Mark Dras, Usman Naseem"
-  year: 2026
-  link:
-    url: https://aclanthology.org/2026.emnlp-main.1867/
-    display: "EMNLP"
-  highlight: 1
-
 - title: "EQUAL: Evaluating Pluralistic Alignment of LLMs Across Educational Perspectives"
   authors: "MD Azizul Hoque, Mark Dras, Usman Naseem"
   year: 2026
@@ -284,14 +276,6 @@
   link:
     url: https://aclanthology.org/2026.lrec-1.515/
     display: "Proceedings of the Fifteenth Language Resources and Evaluation Conference"
-  highlight: 0
-
-- title: "SemEval-2026 Task 9: Detecting Multilingual, Multicultural and Multievent Online Polarization"
-  authors: "Usman Naseem, Robert Geislinger, Ada Ren, Sarah Kohail, Rudy Garrido Veliz, P Sam Sahil, Yiran Zhang, Marco Antonio Stranisci, Idris Abdulmumin, Özge Alacam, Cengiz Acarturk, Aisha Jabr, Saba Anwar, Abinew Ali Ayele, Elena Tutubalina, Aung Kyaw Htet, Xintong Wang, Surendrabikram Thapa, Tanmoy Chakraborty, Dheeraj Kodati, Sahar Moradizeyveh, Firoj Alam, Ye Kyaw Thu, Shantipriya Parida, Ihsan Ayyub Qazi, Lilian Diana Awuor Wanzare, Nelson Odhiambo, Clemencia Siro, Ibrahim Said Ahmad, Adem Chanie Ali, Martin Semmann, Chris Biemann, Shamsuddeen Hassan Muhammad, Seid Muhie Yimam"
-  year: 2026
-  link:
-    url: https://aclanthology.org/2026.semeval-1.453/
-    display: "Proceedings of the 20th International Workshop on Semantic Evaluation (2026)"
   highlight: 0
 
 - title: "Multiplayer gaming as a testbed for advancing human-agent teaming, decision-making, and communication"
@@ -655,13 +639,6 @@
     display: "Proceedings of the 17th International Conference on Agents and Artificial Intelligence - Volume 2: ICAART"
   highlight: 0
 
-- title: "ALTA 2025 Tutorial: welcome letter: Alignment of Large Language Models with Human Preferences and Values"
-  authors: "U. A. K. Naseem, G. S. Kashyap, K. Ren, Y. Zhang, U. Maskey, A. Nadeem, J. Ren"
-  year: 2025
-  link:
-    url: https://researchers.mq.edu.au/en/publications/alta-2025-tutorial-welcome-letter-alignment-of-large-language-mod/
-    display: "Proceedings of the 23rd Annual Workshop of the Australasian Language Technology Association"
-  highlight: 0
 
 - title: "GameTox: a comprehensive dataset and analysis for enhanced toxicity detection in online gaming communities"
   authors: "U. Naseem, S. Shiwakoti, S. B. Shah, S. Thapa, Q. Zhang"
