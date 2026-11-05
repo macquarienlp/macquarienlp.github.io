@@ -11,17 +11,17 @@
   interest3: Natural Language Processing
   interest4: Machine Learning
 
-- name: Steve Cassidy
-  photo: Cassidy_Steve.jpg
-  info: Associate Professor 
-  email: steve.cassidy@mq.edu.au 
-  scholar: https://scholar.google.com.au/citations?user=uUa7GZsAAAAJ&hl=en
-  webpage: https://researchers.mq.edu.au/en/persons/steve-cassidy/
-  number_educ: 4
-  interest1: Web and Mobile App Development
-  interest2: Research Data Collection and Management
-  interest3: Speech and Language Processing
-  interest4: Applied Data Science
+#- name: Steve Cassidy
+#  photo: Cassidy_Steve.jpg
+#  info: Associate Professor 
+#  email: steve.cassidy@mq.edu.au 
+#  scholar: https://scholar.google.com.au/citations?user=uUa7GZsAAAAJ&hl=en
+#  webpage: https://researchers.mq.edu.au/en/persons/steve-cassidy/
+#  number_educ: 4
+#  interest1: Web and Mobile App Development
+#  interest2: Research Data Collection and Management
+#  interest3: Speech and Language Processing
+#  interest4: Applied Data Science
 
 
 - name: Diego Molla Aliod
@@ -35,15 +35,15 @@
   interest2: Computational Linguistics
   interest3: Machine Learning
   
-- name: Rolf Schwitter
-  photo: Schwitter_Rolf.jpg
-  info: Senior Lecturer
-  email: rolf.schwitter@mq.edu.au 
-  scholar: https://scholar.google.com.au/citations?user=FSUVa40AAAAJ&hl=en
-  number_educ: 3
-  interest1: Artificial Intelligence
-  interest2: Computational Linguistics
-  interest3: Data Science
+#- name: Rolf Schwitter
+#  photo: Schwitter_Rolf.jpg
+#  info: Senior Lecturer
+#  email: rolf.schwitter@mq.edu.au 
+#  scholar: https://scholar.google.com.au/citations?user=FSUVa40AAAAJ&hl=en
+#  number_educ: 3
+#  interest1: Artificial Intelligence
+#  interest2: Computational Linguistics
+#  interest3: Data Science
 
 - name: Usman Naseem
   photo: Naseem_Usman.jpeg
@@ -78,9 +78,10 @@
   email: pedro.faustini@mq.edu.au
   scholar: https://scholar.google.com/citations?user=QI6BzgQAAAAJ&hl=en
   webpage: https://researchers.mq.edu.au/en/persons/pedro-arruda-faustini/
-  number_educ: 2
+  number_educ: 3
   interest1: Natural Language Processing.
   interest2: Privacy-Preserving Machine Learning
+  interest3: LLM alignment
 
 - name: "This could be you !"
   photo: rock.jpg
